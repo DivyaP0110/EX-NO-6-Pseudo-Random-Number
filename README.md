@@ -38,7 +38,8 @@ int main()
 ```
 
 # OUTPUT:
-![Uploading Screenshot 2025-04-07 083555.png…]()
+![Screenshot 2025-04-07 083555](https://github.com/user-attachments/assets/88d83c0a-6f92-4849-8310-6b2fbc9c1454)
+
 
 
 
